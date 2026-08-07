@@ -67,4 +67,3 @@ for word in sorted(reduced):
 ## RESULT:
 
 The Word Count program using the MapReduce programming model was implemented successfully, and the frequency of each word in the given input text was computed correctly.
-```
